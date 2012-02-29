@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+  <title>Hillsborough Middle Schools</title>
+  <link rel="shortcut icon" href="../images/favicon.png">
+
+	    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le javascript -->
+    <script src="http://code.jquery.com/jquery-1.7.min.js"></script>
+    <script src="../javascript/prettify.js"></script>
+    <script>$(function () { prettyPrint() })</script>
+    <script src="../javascript/bootstrap-modal.js"></script>
+    <script src="../javascript/bootstrap-alerts.js"></script>
+    <script src="../javascript/bootstrap-twipsy.js"></script>
+    <script src="../javascript/bootstrap-popover.js"></script>
+    <script src="../javascript/bootstrap-dropdown.js"></script>
+    <script src="../javascript/bootstrap-scrollspy.js"></script>
+    <script src="../javascript/bootstrap-tabs.js"></script>
+    <script src="../javascript/bootstrap-buttons.js"></script>
+    <script src="../javascript/modernizr-2.0.6.js"></script>
+    <script src="../javascript/jquery.tablesorter.min.js"></script>
+
+    <!-- Le styles -->
+    <link href="../css/bootstrap.css" rel="stylesheet">
+    <link href="../css/docs.css" rel="stylesheet">
+    <link href="../css/prettify.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../css/school.css" />
+
+	<script src="../javascript/HillsboroughMiddle.js"></script>
+
+	<script>
+		function insertText () {
+			var tableHTML = '<thead><tr><th>School</th><th>Writing</th><th>Science</th><th>Math</th><th>Reading</th></tr></thead><tbody>';
+				
+			for(i in schoolObject){tableHTML += '<tr><td><a href="' + URL + '.html?school=' + i + '">' + schoolObject[i].schoolName + '</a></td><td>' + schoolObject[i].schoolScores[0].scores[3] + '</td><td>' + schoolObject[i].schoolScores[1].scores[3] + '</td><td>' + schoolObject[i].schoolScores[2].scores[3] + '</td><td>' + schoolObject[i].schoolScores[3].scores[3] + '</td></tr>';
+			}
+			
+			//insert table HTML
+			document.getElementById('districtSchools').innerHTML += tableHTML;
+		
+		$(function() {
+    	$("table#districtSchools").tablesorter({ sortList: [[0,0]] });});
+		}
+	</script>
+
+	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAUHKx-PRTOPr8NW1M1lnmDVZVN_1Ud1CU&sensor=false">
+	</script>
+
+	<script type="text/javascript">
+function initialize() {
+  var myOptions = {
+    zoom: 10,
+    center: new google.maps.LatLng(schoolObject['sligh'].latitude, schoolObject['sligh'].longitude),
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+  var map = new google.maps.Map(document.getElementById("map_canvas"),
+                                myOptions);
+
+  setMarkers(map, schools);
+}
+
+/**
+ * Data for the markers consisting of a name, a LatLng and a zIndex for
+ * the order in which these markers should display on top of each
+ * other.
+ */
+var schools = [[]];
+for (i in schoolObject) {
+  var obj = [schoolObject[i].schoolName, schoolObject[i].latitude, schoolObject[i].longitude, 0];
+  schools.push(obj);
+};
+
+function setMarkers(map, locations) {
+  // Add markers to the map
+
+  // Marker sizes are expressed as a Size of X,Y
+  // where the origin of the image (0,0) is located
+  // in the top left of the image.
+
+  // Origins, anchor positions and coordinates of the marker
+  // increase in the X direction to the right and in
+  // the Y direction down.
+  var image = new google.maps.MarkerImage('../images/schoollogo.png',
+      // This marker is 20 pixels wide by 32 pixels tall.
+      new google.maps.Size(25, 25),
+      // The origin for this image is 0,0.
+      new google.maps.Point(0,0),
+      // The anchor for this image is the base of the flagpole at 0,32.
+      new google.maps.Point(0, 25));
+  var shadow = new google.maps.MarkerImage('../images/shadow.png',
+      // The shadow image is larger in the horizontal dimension
+      // while the position and offset are the same as for the main image.
+      new google.maps.Size(30, 25),
+      new google.maps.Point(0,0),
+      new google.maps.Point(0, 25));
+      // Shapes define the clickable region of the icon.
+      // The type defines an HTML &lt;area&gt; element 'poly' which
+      // traces out a polygon as a series of X,Y points. The final
+      // coordinate closes the poly by connecting to the first
+      // coordinate.
+  var shape = {
+      coord: [1, 1, 1, 25, 25, 25, 25 , 1],
+      type: 'poly'
+  };
+  for (var i = 0; i < locations.length; i++) {
+    var school = locations[i];
+    var myLatLng = new google.maps.LatLng(school[1], school[2]);
+    var marker = new google.maps.Marker({
+        position: myLatLng,
+        map: map,
+        shadow: shadow,
+        icon: image,
+        shape: shape,
+        title: school[0],
+        zIndex: school[3]
+    });
+  }
+}
+</script>
+
+</head>
+
+<body onload="insertText(); initialize();">
+	<div id="page-wrap">	
+		<h2><a href="../home.html"><img src="../images/LOGO.png"></img></a></h2>
+		<nav>
+			<ul>
+          <li><a href="../home.html">Home</a> / </li>
+          <li><a href="schoollevel.html">Hillsborough School District</a> / </li>
+          <li class="active">Middle Schools </li>
+			</ul>
+		</nav>
+
+		<h1><div class="triangle"></div>Hillsborough School District</h1>
+
+		<table class="zebra-striped" id="districtSchools" class="span16"></table>
+		<h5>District Map</h5>
+		<div id="map_canvas"></div>
+
+		<footer>
+			<p>About || Contact || Ect.</p>
+		</footer>
+	</div>
+</body>
+</html>

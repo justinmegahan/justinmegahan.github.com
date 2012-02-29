@@ -1,0 +1,202 @@
+/*
+Green: #006600
+Gray: #333333
+White: #F5F5F1
+d*/
+
+html { overflow-y: scroll; background-color:#999999}
+* { margin: 0; padding: 0; }
+.floatright { float: right; }
+.floatleft { float: left; }
+.clear {clear: both;}
+
+#page-wrap {
+	width:900px;
+	margin: 0px auto;
+	background: #F5F5F1;
+	}
+	
+body {
+	font-family: "Book Antiqua", serif;
+	font-size: 1em;
+	color: #333333;
+	background-color:#999999
+	}
+	
+h1 {
+	background: none repeat scroll 0 0 #060;
+	color: #F5F5F1;
+	display: block;
+	padding: 0 0 0 75px;
+	font-size: 3.25em;
+	line-height: 80px;
+	position: relative;
+	left: -40px;
+	width: 865px;
+}
+
+h2 {
+	background: none repeat scroll 0 0 #999999;
+	color: #006600;
+	padding: 0 0 0 10px;
+	line-height: 24px;
+	display: block;
+	}
+
+
+}
+	
+p {
+	padding: 0 0 0 10px;
+	
+	}
+
+nav ul {
+	margin: 5px 0 5px 25px;
+	padding: 0px 0px;
+	}
+
+nav li {display: inline;
+	font-size: .8em;}
+
+	
+header { 
+		position: fixed;
+		}
+
+#banner {
+	position: absolute;
+	left: 161px;
+	top: 45px;}
+
+
+.chart {
+	border-radius: 10px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border: 3px solid #006600;
+	padding: 15px;
+	width: 700px;
+	height: 180px;
+	margin: 35px 85px 35px 85px;
+}
+
+.graph {
+	width: 400px;
+	height: 200px;
+	float:right;
+}
+
+.stats {
+	width: 250px;
+	padding-left: 20px;
+	/*-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border: 3px solid #CCC;
+	background-color: #CCC;*/
+}
+
+
+footer {
+	background: none repeat scroll 0 0 #006600;
+    color: #F5F5F1;
+    display: block;
+    margin: 0px;
+    padding: 0px 0px 0px 15px;
+}
+
+.average {
+color: #CD0000;
+font-variant: small-caps;
+font-weight: bold;
+display: block;
+font-size: 1.2em;
+}
+
+.districtRank {
+font-weight: bold;
+font-size: 1em;
+}
+
+.subject {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.scores {
+
+	display: inline-block;
+}
+
+h4 {
+font-size: 5em;
+padding: 24px 0 0 25px;
+font-weight: bold;	    
+}
+
+.testType {
+	top:10px;
+}
+
+canvas {
+	vertical-align: top;
+}
+
+.badge {
+		display: block-inline;
+		margin: 20px 20px 0px 20px;
+		border: 2px solid #999;
+}
+
+/* #badges {padding: 0 0 0 85px;}*/
+
+#map {border:0;margin:0;width:300px;height:250px;}
+
+#geographicInfo {
+	padding: 15px;
+	width: 700px;
+	margin: 0px 85px 25px 85px;
+}
+
+.triangle {
+width: 0;
+height: 0;
+border-right: 40px solid #030;
+border-bottom: 25px solid transparent;
+border-top: 10px;
+position: absolute;
+bottom: -25px;
+left: 0;
+}
+
+#districtSchools {
+	width: 850px;
+	margin: 0px auto;
+}
+
+#map_canvas { width:850px; height:500px; margin: 0px auto}
+
+a {color: #060;}
+a:hover {color: #030; text-decoration: underline;}
+
+table .headerSortUp, table .headerSortDown {
+background-color: #b8d6b8;}
+
+.zebra-striped tbody tr:hover td, .zebra-striped tbody tr:hover th {
+background-color: #b8d6b8;
+}
+
+#container {
+	width: 590px;
+	height: 439px;
+	margin: 10px 165px;
+}
+
+#schoolLevel img {
+	padding: 10px 36px;
+}
+
+h5 {
+	margin: 0px 0px 0px 25px;
+	font-size: 20px;
+}

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+  <title>Pinellas Middle Schools</title>
+  <link rel="shortcut icon" href="../images/favicon.png"
+
+	    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le javascript -->
+    <script src="http://www.html5canvastutorials.com/libraries/kinetic-v2.3.1.js"></script>
+    <script src="http://code.jquery.com/jquery-1.7.min.js"></script>
+    <script src="../JavaScript/prettify.js"></script>
+    <script>$(function () { prettyPrint() })</script>
+    <script src="../JavaScript/bootstrap-modal.js"></script>
+    <script src="../JavaScript/bootstrap-alerts.js"></script>
+    <script src="../JavaScript/bootstrap-twipsy.js"></script>
+    <script src="../JavaScript/bootstrap-popover.js"></script>
+    <script src="../JavaScript/bootstrap-dropdown.js"></script>
+    <script src="../JavaScript/bootstrap-scrollspy.js"></script>
+    <script src="../JavaScript/bootstrap-tabs.js"></script>
+    <script src="../JavaScript/bootstrap-buttons.js"></script>
+    <script src="../JavaScript/modernizr-2.0.6.js"></script>
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAUHKx-PRTOPr8NW1M1lnmDVZVN_1Ud1CU&sensor=false"></script>
+
+    <!-- Le styles -->
+    <link href="../CSS/bootstrap.css" rel="stylesheet">
+    <link href="../CSS/docs.css" rel="stylesheet">
+    <link href="../CSS/prettify.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../CSS/school.css" />
+
+    <script>
+    	function getParameterByName( name ) {
+  			name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+  			var regexS = "[\\?&]" + name + "=([^&#]*)";
+  			var regex = new RegExp(regexS);
+  			var results = regex.exec(window.location.href);
+  			if(results == null)
+    			return "";
+  			else
+    			return decodeURIComponent(results[1].replace(/\+/g, " "));
+		}
+    </script>
+	
+	<script src="../JavaScript/PinellasMiddle.js"></script>
+
+	<script type="text/javascript">
+		var Clay = schoolObject[getParameterByName('school')];
+	</script>
+
+	<script src="../javascript/school.js"></script>
+</head>
+<body onload="insertText(); initialize();" onmousedown="return false;">
+	<div id="page-wrap">
+		<h2><img src="../images/LOGO.png"  ></img></h2>
+		<nav>
+			<ul>
+        <li><a href="../home.html">Home</a> / </li>
+        <li><a href="schoollevel.html">Pinellas School District</a> / </li>
+         <li><a href="middledistrict.html">Middle Schools</a></li>
+			</ul>
+		</nav>
+		<div id="badges"></div>
+		<div id="charts"></div>
+		<div id="geographicInfo">
+			<div id="map" class="floatright">
+				<div id="map_canvas" style="width:300px; height:300px"></div>
+			</div>
+			<div id="nearbySchools" class="span6"></div>
+		</div>
+		<footer>
+			<p>About || Contact || Ect.</p>
+		</footer>
+	</div>
+</body>
+</html>
