@@ -4,7 +4,7 @@ Gray: #333333
 White: #F5F5F1
 d*/
 
-html { overflow-y: scroll; background-color:#999999}
+html { overflow-y: scroll; background-color:#999999;height: 100%;}
 * { margin: 0; padding: 0; }
 .floatright { float: right; }
 .floatleft { float: left; }
@@ -14,13 +14,15 @@ html { overflow-y: scroll; background-color:#999999}
 	width:900px;
 	margin: 0px auto;
 	background: #F5F5F1;
+	min-height: 100%;
 	}
 	
 body {
 	font-family: "Book Antiqua", serif;
 	font-size: 1em;
 	color: #333333;
-	background-color:#999999
+	background-color:#999999;
+	height: 100%;
 	}
 	
 h1 {
@@ -99,13 +101,29 @@ header {
 
 footer {
 	background: none repeat scroll 0 0 #006600;
-    color: #F5F5F1;
     display: block;
     margin: 0px;
+    height: 20px;
     padding: 0px 0px 0px 15px;
 }
 
-.average {
+.atState {
+color: #000000;
+font-variant: small-caps;
+font-weight: bold;
+display: block;
+font-size: 1.2em;
+}
+
+.aboveState {
+color: #00688B;
+font-variant: small-caps;
+font-weight: bold;
+display: block;
+font-size: 1.2em;
+}
+
+.belowState {
 color: #CD0000;
 font-variant: small-caps;
 font-weight: bold;
@@ -155,7 +173,7 @@ canvas {
 #geographicInfo {
 	padding: 15px;
 	width: 700px;
-	margin: 0px 85px 25px 85px;
+	margin: 0px 85px 0px 85px;
 }
 
 .triangle {

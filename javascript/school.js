@@ -1,3 +1,9 @@
+function getGetOrdinal(n) {
+   var s=["th","st","nd","rd"],
+       v=n%100;
+   return n+(s[(v-20)%10]||s[v]||s[0]);
+}
+
 function initialize() {
 	var myOptions = {
 		zoom: 12,
@@ -99,7 +105,7 @@ function findClosestSchools() {
 		distances[j] = [d, schoolObject[i].schoolName,i];
 		j++;
 	}
-			
+		
 	distances.sort(function(a, b) { 
 		return a[0] > b[0]?1:-1;
 	});
@@ -109,7 +115,8 @@ function findClosestSchools() {
 	document.getElementById('nearbySchools').innerHTML = nearbySchoolsHTML;
 }
 
-	
+
+
 function insertText () {
 
 // create Badge HTML - !!!CURRENTLY NOT IMPLEMENTED!!!
@@ -136,14 +143,41 @@ function insertText () {
 	
 	for(i in Clay.schoolScores){
 		if (Clay.schoolScores[i].scores[3] < stateObject.stateAverages[i].scores[3]) {
-			schoolVsState = 'Below State Average';
+			schoolVsState = '<p class="belowState clear"> &darr;Below State Average</p>';
 		} else if (Clay.schoolScores[i].scores[3] > stateObject.stateAverages[i].scores[3]){
-			schoolVsState = 'Above State Average';
+			schoolVsState = '<p class="aboveState clear"> &uarr;Above State Average</p>';
 		} else {
-			schoolVsState = 'At State Average';
+			schoolVsState = '<p class="atState clear"> At State Average</p>';
 		}
 
-		chartsHTML += '<div class="chart"><div id="'+ Clay.schoolScores[i].subject +'" class="graph"></div><div class="stats floatleft"><div class="subject floatleft"><h3>'+ Clay.schoolScores[i].subject +'</h3><img src="../images/'+ Clay.schoolScores[i].image +'" /></div><div class="scores floatleft"><h4 data-placement="below" rel="popover" data-content="'+ stateObject.stateAverages[i].dataContent +'" data-original-title="'+ stateObject.stateAverages[i].dataTitle +'">'+ Clay.schoolScores[i].scores[3] +'</h4></div><div><p class="average clear">'+ schoolVsState +'</p><p class="districtRank">'+ Clay.schoolScores[i].rank +' in school district</p></div></div></div>'
+		var schoolsInDistrict = 0;
+		for ( property in schoolObject ){
+   			if(schoolObject.hasOwnProperty(property)){
+		      schoolsInDistrict++;
+			}
+		};
+		
+		k = 0;
+		var schoolRanking = [];
+		for ( x in schoolObject ) {
+			schoolRanking[k] = [schoolObject[x].schoolScores[i].scores[3], schoolObject[x].schoolName,x];
+			k++;
+		}
+		
+		schoolRanking.sort(function(a, b) { 
+			return b[0] > a[0]?1:-1;
+		});
+		
+		var schoolRank = 1;
+		for( y in schoolRanking) {
+			if (schoolRanking[y][0] != Clay.schoolScores[i].scores[3]) {
+				schoolRank++;}
+			else break;
+		}
+
+		schoolRank = getGetOrdinal(schoolRank);
+			
+		chartsHTML += '<div class="chart"><div id="'+ Clay.schoolScores[i].subject +'" class="graph"></div><div class="stats floatleft"><div class="subject floatleft"><h3>'+ Clay.schoolScores[i].subject +'</h3><img src="../images/'+ Clay.schoolScores[i].image +'" /></div><div class="scores floatleft"><h4 data-placement="below" rel="popover" data-content="'+ stateObject.stateAverages[i].dataContent +'" data-original-title="'+ stateObject.stateAverages[i].dataTitle +'">'+ Clay.schoolScores[i].scores[3] +'</h4></div><div>'+ schoolVsState +'<p class="districtRank">'+ schoolRank +' of '+ schoolsInDistrict +' schools in district</p></div></div></div>'
 	}
 
 	//insert Charts HTML

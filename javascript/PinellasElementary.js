@@ -128,16 +128,16 @@ var schoolObject = {
 		{"subject": "reading", "scores": [279,299,288,268],"image": "reading.png", "rank": "21st of 42"}],
 	"schoolBadges": [],
 	"latitude":	27.7633609	, "longitude":	-82.6512099	}
-,
-"clearview" : { 
-	"schoolName": "Clearview Elementary School",
-	"schoolScores": [
-		{"subject": "writing","scores": [3.7,3.9,null,null],"image": "writing.png","rank": "21st of 42"},
-		{"subject": "science","scores": [292,297,null,null],"image": "science.png","rank": "21st of 42"},
-		{"subject": "math","scores": [327,320,null,null],"image": "math.png", "rank": "21st of 42"},
-		{"subject": "reading", "scores": [294,291,null,null],"image": "reading.png", "rank": "21st of 42"}],
-	"schoolBadges": [],
-	"latitude":	27.807194	, "longitude":	-82.691326	}
+// ,
+// "clearview" : { 
+// 	"schoolName": "Clearview Elementary School",
+// 	"schoolScores": [
+// 		{"subject": "writing","scores": [3.7,3.9,null,null],"image": "writing.png","rank": "21st of 42"},
+// 		{"subject": "science","scores": [292,297,null,null],"image": "science.png","rank": "21st of 42"},
+// 		{"subject": "math","scores": [327,320,null,null],"image": "math.png", "rank": "21st of 42"},
+// 		{"subject": "reading", "scores": [294,291,null,null],"image": "reading.png", "rank": "21st of 42"}],
+// 	"schoolBadges": [],
+// 	"latitude":	27.807194	, "longitude":	-82.691326	}
 ,
 "cross_bayou" : { 
 	"schoolName": "Bross Bayou Elementary School",
@@ -158,16 +158,16 @@ var schoolObject = {
 		{"subject": "reading", "scores": [321,321,339,315],"image": "reading.png", "rank": "21st of 42"}],
 	"schoolBadges": [],
 	"latitude":	28.049981	, "longitude":	-82.711714	}
-,
-"hamilton_disston" : { 
-	"schoolName": "Hamilton Disston School		",
-	"schoolScores": [
-		{"subject": "writing","scores": [2.4,null,null,null],"image": "writing.png","rank": "21st of 42"},
-		{"subject": "science","scores": [null,230,null,null],"image": "science.png","rank": "21st of 42"},
-		{"subject": "math","scores": [232,253,null,null],"image": "math.png", "rank": "21st of 42"},
-		{"subject": "reading", "scores": [247,226,null,null],"image": "reading.png", "rank": "21st of 42"}],
-	"schoolBadges": [],
-	"latitude":	27.760103	, "longitude":	-82.702849	}
+// ,
+// "hamilton_disston" : { 
+// 	"schoolName": "Hamilton Disston School		",
+// 	"schoolScores": [
+// 		{"subject": "writing","scores": [2.4,null,null,null],"image": "writing.png","rank": "21st of 42"},
+// 		{"subject": "science","scores": [null,230,null,null],"image": "science.png","rank": "21st of 42"},
+// 		{"subject": "math","scores": [232,253,null,null],"image": "math.png", "rank": "21st of 42"},
+// 		{"subject": "reading", "scores": [247,226,null,null],"image": "reading.png", "rank": "21st of 42"}],
+// 	"schoolBadges": [],
+// 	"latitude":	27.760103	, "longitude":	-82.702849	}
 ,
 "leila_davis" : { 
 	"schoolName": "Leila Davis Elementary School",
@@ -278,16 +278,16 @@ var schoolObject = {
 		{"subject": "reading", "scores": [333,337,331,317],"image": "reading.png", "rank": "21st of 42"}],
 	"schoolBadges": [],
 	"latitude":	28.035419	, "longitude":	-82.758016	}
-,
-"gulf_beaches" : { 
-	"schoolName": "Gulf Beaches Elementary School",
-	"schoolScores": [
-		{"subject": "writing","scores": [3.8,3.7,null,null],"image": "writing.png","rank": "21st of 42"},
-		{"subject": "science","scores": [287,288,null,null],"image": "science.png","rank": "21st of 42"},
-		{"subject": "math","scores": [315,331,null,null],"image": "math.png", "rank": "21st of 42"},
-		{"subject": "reading", "scores": [293,298,null,null],"image": "reading.png", "rank": "21st of 42"}],
-	"schoolBadges": [],
-	"latitude":	27.7475278	, "longitude":	-82.7553791	}
+// ,
+// "gulf_beaches" : { 
+// 	"schoolName": "Gulf Beaches Elementary School",
+// 	"schoolScores": [
+// 		{"subject": "writing","scores": [3.8,3.7,null,null],"image": "writing.png","rank": "21st of 42"},
+// 		{"subject": "science","scores": [287,288,null,null],"image": "science.png","rank": "21st of 42"},
+// 		{"subject": "math","scores": [315,331,null,null],"image": "math.png", "rank": "21st of 42"},
+// 		{"subject": "reading", "scores": [293,298,null,null],"image": "reading.png", "rank": "21st of 42"}],
+// 	"schoolBadges": [],
+// 	"latitude":	27.7475278	, "longitude":	-82.7553791	}
 ,
 "gulfport" : { 
 	"schoolName": "Gulfport Elementary School",
@@ -338,16 +338,16 @@ var schoolObject = {
 		{"subject": "reading", "scores": [288,307,299,306],"image": "reading.png", "rank": "21st of 42"}],
 	"schoolBadges": [],
 	"latitude":	27.7585644	, "longitude":	-82.6834407	}
-,
-"kings_highway" : { 
-	"schoolName": "Kings Highway Elementary School",
-	"schoolScores": [
-		{"subject": "writing","scores": [3.9,3.6,null,null],"image": "writing.png","rank": "21st of 42"},
-		{"subject": "science","scores": [273,277,null,null],"image": "science.png","rank": "21st of 42"},
-		{"subject": "math","scores": [309,302,null,null],"image": "math.png", "rank": "21st of 42"},
-		{"subject": "reading", "scores": [276,275,null,null],"image": "reading.png", "rank": "21st of 42"}],
-	"schoolBadges": [],
-	"latitude":	27.9839084	, "longitude":	-82.7778797	}
+// ,
+// "kings_highway" : { 
+// 	"schoolName": "Kings Highway Elementary School",
+// 	"schoolScores": [
+// 		{"subject": "writing","scores": [3.9,3.6,null,null],"image": "writing.png","rank": "21st of 42"},
+// 		{"subject": "science","scores": [273,277,null,null],"image": "science.png","rank": "21st of 42"},
+// 		{"subject": "math","scores": [309,302,null,null],"image": "math.png", "rank": "21st of 42"},
+// 		{"subject": "reading", "scores": [276,275,null,null],"image": "reading.png", "rank": "21st of 42"}],
+// 	"schoolBadges": [],
+// 	"latitude":	27.9839084	, "longitude":	-82.7778797	}
 ,
 "lakeview" : { 
 	"schoolName": "Lakeview Fundamental School		",
@@ -368,16 +368,16 @@ var schoolObject = {
 		{"subject": "reading", "scores": [284,281,271,271],"image": "reading.png", "rank": "21st of 42"}],
 	"schoolBadges": [],
 	"latitude":	27.7305844	, "longitude":	-82.6412097	}
-,
-"largo_central" : { 
-	"schoolName": "Largo Central Elementary School",
-	"schoolScores": [
-		{"subject": "writing","scores": [3.6,null,null,null],"image": "writing.png","rank": "21st of 42"},
-		{"subject": "science","scores": [314,null,null,null],"image": "science.png","rank": "21st of 42"},
-		{"subject": "math","scores": [350,null,null,null],"image": "math.png", "rank": "21st of 42"},
-		{"subject": "reading", "scores": [306,null,null,null],"image": "reading.png", "rank": "21st of 42"}],
-	"schoolBadges": [],
-	"latitude":	27.9180773	, "longitude":	-82.7845465	}
+// ,
+// "largo_central" : { 
+// 	"schoolName": "Largo Central Elementary School",
+// 	"schoolScores": [
+// 		{"subject": "writing","scores": [3.6,null,null,null],"image": "writing.png","rank": "21st of 42"},
+// 		{"subject": "science","scores": [314,null,null,null],"image": "science.png","rank": "21st of 42"},
+// 		{"subject": "math","scores": [350,null,null,null],"image": "math.png", "rank": "21st of 42"},
+// 		{"subject": "reading", "scores": [306,null,null,null],"image": "reading.png", "rank": "21st of 42"}],
+// 	"schoolBadges": [],
+// 	"latitude":	27.9180773	, "longitude":	-82.7845465	}
 ,
 "lealman_avenue" : { 
 	"schoolName": "Lealman Avenue Elementary School",
@@ -478,16 +478,16 @@ var schoolObject = {
 		{"subject": "reading", "scores": [308,315,305,293],"image": "reading.png", "rank": "21st of 42"}],
 	"schoolBadges": [],
 	"latitude":	27.8036373	, "longitude":	-82.6323206	}
-,
-"north_ward" : { 
-	"schoolName": "North Ward Elementary School",
-	"schoolScores": [
-		{"subject": "writing","scores": [4.0,3.9,null,null],"image": "writing.png","rank": "21st of 42"},
-		{"subject": "science","scores": [310,321,null,null],"image": "science.png","rank": "21st of 42"},
-		{"subject": "math","scores": [353,350,null,null],"image": "math.png", "rank": "21st of 42"},
-		{"subject": "reading", "scores": [310,314,null,null],"image": "reading.png", "rank": "21st of 42"}],
-	"schoolBadges": [],
-	"latitude":	27.9752974	, "longitude":	-82.799547	}
+// ,
+// "north_ward" : { 
+// 	"schoolName": "North Ward Elementary School",
+// 	"schoolScores": [
+// 		{"subject": "writing","scores": [4.0,3.9,null,null],"image": "writing.png","rank": "21st of 42"},
+// 		{"subject": "science","scores": [310,321,null,null],"image": "science.png","rank": "21st of 42"},
+// 		{"subject": "math","scores": [353,350,null,null],"image": "math.png", "rank": "21st of 42"},
+// 		{"subject": "reading", "scores": [310,314,null,null],"image": "reading.png", "rank": "21st of 42"}],
+// 	"schoolBadges": [],
+// 	"latitude":	27.9752974	, "longitude":	-82.799547	}
 ,
 "northwest2" : { 
 	"schoolName": "Northwest Elementary School",
@@ -548,16 +548,16 @@ var schoolObject = {
 		{"subject": "reading", "scores": [341,349,341,354],"image": "reading.png", "rank": "21st of 42"}],
 	"schoolBadges": [],
 	"latitude":	28.0039076	, "longitude":	-82.7845466	}
-,
-"palm_harbor" : { 
-	"schoolName": "Palm Harbor Elementary School",
-	"schoolScores": [
-		{"subject": "writing","scores": [4.2,4.5,null,null],"image": "writing.png","rank": "21st of 42"},
-		{"subject": "science","scores": [328,324,null,null],"image": "science.png","rank": "21st of 42"},
-		{"subject": "math","scores": [354,346,null,null],"image": "math.png", "rank": "21st of 42"},
-		{"subject": "reading", "scores": [324,318,null,null],"image": "reading.png", "rank": "21st of 42"}],
-	"schoolBadges": [],
-	"latitude":	28.0711276	, "longitude":	-82.7589902	}
+// ,
+// "palm_harbor" : { 
+// 	"schoolName": "Palm Harbor Elementary School",
+// 	"schoolScores": [
+// 		{"subject": "writing","scores": [4.2,4.5,null,null],"image": "writing.png","rank": "21st of 42"},
+// 		{"subject": "science","scores": [328,324,null,null],"image": "science.png","rank": "21st of 42"},
+// 		{"subject": "math","scores": [354,346,null,null],"image": "math.png", "rank": "21st of 42"},
+// 		{"subject": "reading", "scores": [324,318,null,null],"image": "reading.png", "rank": "21st of 42"}],
+// 	"schoolBadges": [],
+// 	"latitude":	28.0711276	, "longitude":	-82.7589902	}
 ,
 "pasadena" : { 
 	"schoolName": "Pasadena Fundamental		",
@@ -572,7 +572,7 @@ var schoolObject = {
 "clearwater_intermediate" : { 
 	"schoolName": "Clearwater Intermediate		",
 	"schoolScores": [
-		{"subject": "writing","scores": [						],"image": "writing.png","rank": "21st of 42"},
+		{"subject": "writing","scores": [null,null,null,null],"image": "writing.png","rank": "21st of 42"},
 		{"subject": "science","scores": [231,245,245,237],"image": "science.png","rank": "21st of 42"},
 		{"subject": "math","scores": [279,276,288,272],"image": "math.png", "rank": "21st of 42"},
 		{"subject": "reading", "scores": [235,240,222,251],"image": "reading.png", "rank": "21st of 42"}],
@@ -628,16 +628,16 @@ var schoolObject = {
 		{"subject": "reading", "scores": [344,346,341,343],"image": "reading.png", "rank": "21st of 42"}],
 	"schoolBadges": [],
 	"latitude":	27.8989111	, "longitude":	-82.8028805	}
-,
-"rio_vista" : { 
-	"schoolName": "Rio Vista Elementary School",
-	"schoolScores": [
-		{"subject": "writing","scores": [3.4,4.1,null,null],"image": "writing.png","rank": "21st of 42"},
-		{"subject": "science","scores": [296,305,null,null],"image": "science.png","rank": "21st of 42"},
-		{"subject": "math","scores": [325,332,null,null],"image": "math.png", "rank": "21st of 42"},
-		{"subject": "reading", "scores": [288,302,null,null],"image": "reading.png", "rank": "21st of 42"}],
-	"schoolBadges": [],
-	"latitude":	27.8469692	, "longitude":	-82.6295427	}
+// ,
+// "rio_vista" : { 
+// 	"schoolName": "Rio Vista Elementary School",
+// 	"schoolScores": [
+// 		{"subject": "writing","scores": [3.4,4.1,null,null],"image": "writing.png","rank": "21st of 42"},
+// 		{"subject": "science","scores": [296,305,null,null],"image": "science.png","rank": "21st of 42"},
+// 		{"subject": "math","scores": [325,332,null,null],"image": "math.png", "rank": "21st of 42"},
+// 		{"subject": "reading", "scores": [288,302,null,null],"image": "reading.png", "rank": "21st of 42"}],
+// 	"schoolBadges": [],
+// 	"latitude":	27.8469692	, "longitude":	-82.6295427	}
 ,
 "safety_harbor" : { 
 	"schoolName": "Safety Harbor Elementary School",
@@ -738,16 +738,16 @@ var schoolObject = {
 		{"subject": "reading", "scores": [296,299,296,299],"image": "reading.png", "rank": "21st of 42"}],
 	"schoolBadges": [],
 	"latitude":	27.8511354	, "longitude":	-82.7156557	}
-,
-"south_ward" : { 
-	"schoolName": "South Ward Elementary School",
-	"schoolScores": [
-		{"subject": "writing","scores": [4.1,null,null,null],"image": "writing.png","rank": "21st of 42"},
-		{"subject": "science","scores": [291,null,null,null],"image": "science.png","rank": "21st of 42"},
-		{"subject": "math","scores": [329,null,null,null],"image": "math.png", "rank": "21st of 42"},
-		{"subject": "reading", "scores": [301,null,null,null],"image": "reading.png", "rank": "21st of 42"}],
-	"schoolBadges": [],
-	"latitude":	27.9586313	, "longitude":	-82.8001026	}
+// ,
+// "south_ward" : { 
+// 	"schoolName": "South Ward Elementary School",
+// 	"schoolScores": [
+// 		{"subject": "writing","scores": [4.1,null,null,null],"image": "writing.png","rank": "21st of 42"},
+// 		{"subject": "science","scores": [291,null,null,null],"image": "science.png","rank": "21st of 42"},
+// 		{"subject": "math","scores": [329,null,null,null],"image": "math.png", "rank": "21st of 42"},
+// 		{"subject": "reading", "scores": [301,null,null,null],"image": "reading.png", "rank": "21st of 42"}],
+// 	"schoolBadges": [],
+// 	"latitude":	27.9586313	, "longitude":	-82.8001026	}
 ,
 "starkey" : { 
 	"schoolName": "Starkey Elementary School",
@@ -888,16 +888,16 @@ var schoolObject = {
 		{"subject": "reading", "scores": [269,264,256,230],"image": "reading.png", "rank": "21st of 42"}],
 	"schoolBadges": [],
 	"latitude":	27.949967	, "longitude":	-82.7910113	}
-,
-"homebound" : { 
-	"schoolName": "Homebound		",
-	"schoolScores": [
-		{"subject": "writing","scores": [null,2.7,null,null],"image": "writing.png","rank": "21st of 42"},
-		{"subject": "science","scores": [null,null,null,null],"image": "science.png","rank": "21st of 42"},
-		{"subject": "math","scores": [null,null,null,null],"image": "math.png", "rank": "21st of 42"},
-		{"subject": "reading", "scores": [null,null,null,null],"image": "reading.png", "rank": "21st of 42"}],
-	"schoolBadges": [],
-	"latitude":	27.9569088	, "longitude":	-82.7552073	}
+// ,
+// "homebound" : { 
+// 	"schoolName": "Homebound		",
+// 	"schoolScores": [
+// 		{"subject": "writing","scores": [null,2.7,null,null],"image": "writing.png","rank": "21st of 42"},
+// 		{"subject": "science","scores": [null,null,null,null],"image": "science.png","rank": "21st of 42"},
+// 		{"subject": "math","scores": [null,null,null,null],"image": "math.png", "rank": "21st of 42"},
+// 		{"subject": "reading", "scores": [null,null,null,null],"image": "reading.png", "rank": "21st of 42"}],
+// 	"schoolBadges": [],
+// 	"latitude":	27.9569088	, "longitude":	-82.7552073	}
 ,
 "academie_da_vinci" : { 
 	"schoolName": "Academie da Vinci		",
@@ -948,14 +948,14 @@ var schoolObject = {
 		{"subject": "reading", "scores": [null,280,290,263],"image": "reading.png", "rank": "21st of 42"}],
 	"schoolBadges": [],
 	"latitude":	27.7719341	, "longitude":	-82.6596593	}
-,
-"life_force" : { 
-	"schoolName": "Life Force Arts and Technology Academy		",
-	"schoolScores": [
-		{"subject": "writing","scores": [null,null,null,4.0],"image": "writing.png","rank": "21st of 42"},
-		{"subject": "science","scores": [null,null,null,null],"image": "science.png","rank": "21st of 42"},
-		{"subject": "math","scores": [null,null,null,null],"image": "math.png", "rank": "21st of 42"},
-		{"subject": "reading", "scores": [null,null,null,null],"image": "reading.png", "rank": "21st of 42"}],
-	"schoolBadges": [],
-	"latitude":	28.0063255	, "longitude":	-82.7893128	}
+// ,
+// "life_force" : { 
+// 	"schoolName": "Life Force Arts and Technology Academy		",
+// 	"schoolScores": [
+// 		{"subject": "writing","scores": [null,null,null,4.0],"image": "writing.png","rank": "21st of 42"},
+// 		{"subject": "science","scores": [null,null,null,null],"image": "science.png","rank": "21st of 42"},
+// 		{"subject": "math","scores": [null,null,null,null],"image": "math.png", "rank": "21st of 42"},
+// 		{"subject": "reading", "scores": [null,null,null,null],"image": "reading.png", "rank": "21st of 42"}],
+// 	"schoolBadges": [],
+// 	"latitude":	28.0063255	, "longitude":	-82.7893128	}
 };
