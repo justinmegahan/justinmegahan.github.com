@@ -1,10 +1,10 @@
 var URL = "high"
 
 var stateObject = 	{	"stateAverages" : [
-						{"subject": "writing",	"scores": [3.9,3.8,3.9,4.0], "dataTitle": "Florida Comprehensive Assessment Test", "dataContent": "Mean result score of 10th grade students on the science section of the FCAT. Scores range from 100-500."},
-						{"subject": "science",	"scores": [304,302,306,307], "dataTitle": "Florida Comprehensive Assessment Test", "dataContent": "Mean result score of 10th grade students on the science section of the FCAT. Scores range from 100-500."},
-						{"subject": "math",		"scores": [327,327,331,329], "dataTitle": "Florida Comprehensive Assessment Test", "dataContent": "math description"},
-						{"subject": "reading",	"scores": [308,313,316,317], "dataTitle": "Florida Comprehensive Assessment Test", "dataContent": "reading description"}
+						{"subject": "writing",	"scores": [3.9,3.8,3.9,4.0], "dataTitle": "FCAT Writing Score", "dataContent": "Average score of 10th grade students on the writing section of the FCAT."},
+						{"subject": "science",	"scores": [304,302,306,307], "dataTitle": "FCAT Science Score", "dataContent": "Average score of 11th grade students on the science section of the FCAT."},
+						{"subject": "math",		"scores": [327,327,331,329], "dataTitle": "FCAT Math Score", "dataContent": "Average score of 10th grade students on the math section of the FCAT."},
+						{"subject": "reading",	"scores": [308,313,316,317], "dataTitle": "FCAT Reading Score", "dataContent": "Average score of 10th grade students on the reading section of the FCAT."}
 					]};
 
 
