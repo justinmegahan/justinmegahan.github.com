@@ -1,0 +1,612 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wordpress",
+				"wordpress"
+			],
+			[
+				"scores",
+				"schoolScores"
+			],
+			[
+				"at",
+				"auto"
+			],
+			[
+				"State",
+				"State"
+			],
+			[
+				"below",
+				"below"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2521,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/school.css",
+			"settings":
+			{
+				"buffer_size": 3400,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 122.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/wordpress/wp-content/themes/Bootstrap/sidebar.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/Bootstrap/searchform.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/Bootstrap/index.html",
+		"/C/Users/Justin/Dropbox/BestBassGear/HTML/elixir-strings.htm",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/Bootstrap/css/bootstrap.min.css",
+		"/C/xampp/htdocs/wordpress/wp-config.php",
+		"/C/xampp/htdocs/wordpress/wp-config-sample.php",
+		"/C/Users/Justin/Dropbox/BestBassGear/HTML/badass-bridge.htm",
+		"/C/Users/Justin/Dropbox/BestBassGear/HTML/curt-mangan-strings.htm",
+		"/C/Users/Justin/Dropbox/BestBassGear/HTML/mike-pope-preamps.htm",
+		"/C/Users/Justin/Dropbox/BestBassGear/HTML/indextest.html",
+		"/C/Users/Justin/Dropbox/BestBassGear/HTML/cruztools-groovetech-jack-and-pot-wrench.htm",
+		"/C/Users/Justin/Dropbox/BestBassGear/HTML/aguilar-tone-hammer-350-microamp.htm",
+		"/C/Users/Justin/Dropbox/BestBassGear/HTML/cruztools.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/r-cocco-strings.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/indextest.html",
+		"/C/Users/Justin/Desktop/Work/HTML/index.html",
+		"/C/Users/Justin/Desktop/Work/HTML/navigation.php",
+		"/C/Users/Justin/Desktop/Work/HTML/cruztools-groovetech-10-in-1-multi-tool.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/cruztools.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/cruztools-bass-player-tech-kit.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/cruztools-groovetech-jack-and-pot-wrench.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/cruztools-groovetech-truss-rod-drivers.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/cruz-tools-groovetech-jack-and-pot-wrench.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/mxr-pedals.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/ebs-bass-amps.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/ebs-bass-amps2.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/how-to-install-tuning-machines.html",
+		"/C/Users/Justin/Desktop/Work/HTML/ebs-reidmar-250.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/ebs-bass-amp-hd350.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/mike-pope-preamps.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/hipshot-tuners.htm",
+		"/C/Users/Justin/Desktop/Work/HTML/aguilar-bass-pickups.htm",
+		"/C/Users/Justin/Desktop/datetime2.csv",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/boilerplate/header.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/boilerplate/_MOVE TO ROOT/robots.txt",
+		"/C/Users/Justin/Desktop/Work/aguilar-ag-4p-60-p-bass-pickups.htm",
+		"/C/Users/Justin/Desktop/Work/aguilar-bass-pickups.htm",
+		"/C/Users/Justin/justinmegahan.github.com/index.html",
+		"/C/Users/Justin/justinmegahan.github.com/css/school.css",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/elementarydistrict.html",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/high.html",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/highdistrict.html",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/middle.html",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/middledistrict.html",
+		"/C/Users/Justin/justinmegahan.github.com/javascript/PinellasElementary.js",
+		"/C/Users/Justin/justinmegahan.github.com/javascript/PinellasHigh.js",
+		"/C/Users/Justin/justinmegahan.github.com/javascript/PinellasMiddle.js",
+		"/C/Users/Justin/justinmegahan.github.com/javascript/HillsboroughMiddle.js",
+		"/C/Users/Justin/justinmegahan.github.com/hillsborough/middledistrict.html",
+		"/C/Users/Justin/justinmegahan.github.com/hillsborough/middle.html",
+		"/C/Users/Justin/justinmegahan.github.com/hillsborough/highdistrict.html",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/elementary.html",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/schoollevel.html",
+		"/C/Users/Justin/justinmegahan.github.com/hillsborough/elementarydistrict.html",
+		"/C/Users/Justin/justinmegahan.github.com/hillsborough/schoollevel.html",
+		"/C/Users/Justin/justinmegahan.github.com/hillsborough/high.html",
+		"/C/Users/Justin/justinmegahan.github.com/hillsborough/elementary.html",
+		"/C/Users/Justin/justinmegahan.github.com/javascript/HillsboroughElementary.js",
+		"/C/Users/Justin/justinmegahan.github.com/javascript/HillsboroughHigh.js",
+		"/C/Users/Justin/justinmegahan.github.com/javascript/school.js",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/MiddleDistrict.html",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/Middle.html",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/HighDistrict.html",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/High.html",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/ElementaryDistrict.html",
+		"/C/Users/Justin/justinmegahan.github.com/pinellas/Elementary.html",
+		"/C/Users/Justin/justinmegahan.github.com/school.html",
+		"/C/Users/Justin/justinmegahan.github.com/district.html",
+		"/C/Users/Justin/Dropbox/Public/Paramount/index.html",
+		"/C/Users/Justin/Desktop/Work/Best Bass Gear/replacespecialcharacters.html",
+		"/C/Users/Justin/Dropbox/Public/Paramount/JavaScript/HillsboroughMiddle.js",
+		"/C/Users/Justin/Dropbox/Public/Paramount/JavaScript/HillsboroughHigh.js",
+		"/C/Users/Justin/Dropbox/Public/Paramount/JavaScript/HillsboroughElementary.js",
+		"/C/Users/Justin/Dropbox/Public/Paramount/JavaScript/PinellasElementary.js",
+		"/C/Users/Justin/Dropbox/Public/Paramount/JavaScript/PinellasHigh.js",
+		"/C/Users/Justin/Dropbox/Public/Paramount/Pinellas/HighDistrict.html",
+		"/C/Users/Justin/Dropbox/Public/Paramount/Hillsborough/schoollevel.html",
+		"/C/Users/Justin/Dropbox/Public/Paramount/Pinellas/schoollevel.html",
+		"/C/Users/Justin/Dropbox/Public/Paramount/home.html",
+		"/C/Users/Justin/Dropbox/Public/Paramount/school.html",
+		"/C/Users/Justin/Desktop/Work/EMG/Nordstrand.html",
+		"/C/Users/Justin/Desktop/Work/EMG/Hipshot test.htm",
+		"/C/Users/Justin/Desktop/Work/EMG/EMG2.html",
+		"/C/Users/Justin/Desktop/Work/EMG.html",
+		"/C/Users/Justin/Dropbox/Paramount/home.html",
+		"/C/Users/Justin/Dropbox/Paramount/JavaScript/HillsboroughHigh.js",
+		"/C/Users/Justin/Dropbox/Paramount/JavaScript/HillsboroughElementary.js",
+		"/C/Users/Justin/Dropbox/Paramount/Hillsborough/HighDistrict.html",
+		"/C/Users/Justin/Dropbox/Paramount/CSS/school.css",
+		"/C/Users/Justin/Dropbox/Paramount/JavaScript/PinellasMiddle.js",
+		"/C/Users/Justin/Dropbox/Paramount/JavaScript/PinellasElementary.js",
+		"/C/Users/Justin/Dropbox/Paramount/Pinellas/MiddleDistrict.html",
+		"/C/Users/Justin/Dropbox/Paramount/Pinellas/HighDistrict.html",
+		"/C/Users/Justin/Dropbox/Paramount/Pinellas/ElementaryDistrict.html",
+		"/C/Users/Justin/Dropbox/Paramount/Hillsborough/MiddleDistrict.html",
+		"/C/Users/Justin/Dropbox/Paramount/Hillsborough/ElementaryDistrict.html",
+		"/C/Users/Justin/Dropbox/Paramount/Hillsborough/schoollevel.html",
+		"/C/Users/Justin/Dropbox/Paramount/Pinellas/schoollevel.html",
+		"/C/Users/Justin/Dropbox/Paramount/Pinellas/Middle.html",
+		"/C/Users/Justin/Dropbox/Paramount/Pinellas/High.html",
+		"/C/Users/Justin/Dropbox/Paramount/Pinellas/Elementary.html",
+		"/C/Users/Justin/Dropbox/Paramount/Hillsborough/Middle.html",
+		"/C/Users/Justin/Dropbox/Paramount/Hillsborough/High.html",
+		"/C/Users/Justin/Dropbox/Paramount/Hillsborough/Elementary.html",
+		"/C/Users/Justin/Dropbox/Paramount/JavaScript/PinellasHigh.js",
+		"/C/Users/Justin/Dropbox/Paramount/JavaScript/HillsboroughMiddle.js",
+		"/C/Users/Justin/Dropbox/Paramount/schoollevel.html",
+		"/C/Users/Justin/Dropbox/Paramount/JavaScript/Hillsborough.js",
+		"/C/Users/Justin/Dropbox/Paramount/Pinellas/District.html",
+		"/C/Users/Justin/Dropbox/Paramount/JavaScript/school.js",
+		"/C/Users/Justin/Dropbox/Paramount/elementary.js",
+		"/C/Users/Justin/Dropbox/Paramount/HillsboroughMiddle.js",
+		"/C/Users/Justin/Dropbox/Paramount/PinellasHigh.js",
+		"/C/Users/Justin/Dropbox/Paramount/school.css",
+		"/C/Users/Justin/Dropbox/Paramount/school.js",
+		"/C/Users/Justin/Dropbox/Paramount/PinellasMiddleSchoolDistrict.html",
+		"/C/Users/Justin/Dropbox/Paramount/PinellasMiddle.js",
+		"/C/Users/Justin/Dropbox/Paramount/PinnellasMiddleSchool.html",
+		"/C/Users/Justin/Desktop/Paramount/Hillsborough.js",
+		"/C/Users/Justin/Dropbox/Paramount/canvastooltip.html",
+		"/C/Users/Justin/Desktop/Paramount/district.html",
+		"/C/Users/Justin/Desktop/Paramount/school.css",
+		"/C/Users/Justin/Desktop/Paramount/canvastooltip.html",
+		"/C/Users/Justin/Desktop/Paramount/school.html",
+		"/C/Users/Justin/Desktop/Paramount/canvastooltip",
+		"/C/Users/Justin/Desktop/Paramount/maps.html",
+		"/C/Users/Justin/Desktop/Paramount/badgesJS.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wrapper",
+			"end",
+			"excerpt",
+			"span",
+			".css",
+			"638",
+			"alt=\"Fender Precision Bass Set\"",
+			"h1",
+			"black",
+			"eBass5212",
+			"clearance5212B",
+			"clearance5212",
+			"alt",
+			".htm",
+			"campaign=clearance5212",
+			"alt",
+			"<table width =\"325\" cellpadding=\"0\" cellspacing=\"0\" padding=\"5px\" bgcolor=\"#CCCCCC\">",
+			".htm",
+			"campaign=tunersinstall",
+			"width",
+			"<img width=\"150\"",
+			"img img style",
+			"css",
+			"home-featured",
+			"https",
+			"campaign=ebassapril",
+			"campaign=tunersinstall",
+			"max-height:150px",
+			"style=\"max-width:150px;height:150px;\"",
+			"img max-width=\"150\" height=\"150\"",
+			"img width=\"150\"",
+			"over",
+			"--->",
+			"\n",
+			"\n\n",
+			" \n\n",
+			"$57",
+			"$51",
+			"$36",
+			"max-height:150px;",
+			"’",
+			"-<",
+			" - ",
+			"<h3> ",
+			"</a><p>",
+			"alt=",
+			"tunersinstall",
+			"ebs",
+			"https",
+			"?http",
+			"htm",
+			"campaign=pickupinstall",
+			"<h2><b>Hipshot American Classic Series </b></h2>",
+			"</h1>",
+			"<h1>",
+			"img",
+			"<p>",
+			"®",
+			"’",
+			" ",
+			"index",
+			"indez",
+			".js",
+			"http://bestbassgear.3dcartstores.com/assets/images/pickups_preamps_ag4p60_main.jpg",
+			"pickups_preamps_ag4p60_main",
+			"aguilar",
+			"deluxe",
+			"2103",
+			"author",
+			"4j",
+			"        </",
+			"		<footer>\n			<p>About || Contact || Ect.</p>\n		</footer>\n	</div>",
+			"<h2><img src=\"../images/LOGO.png\"  ></img></h2>\n",
+			"<h2><img src=\"../images/LOGO.png\"></img></h2>\n",
+			"<h2><img src=\"../images/LOGO.png\"  ></img></h2>\n",
+			"\"-\"",
+			"null",
+			"subject",
+			"ordinal",
+			"ordin",
+			"	",
+			"y ",
+			"schoolName",
+			"clay.schoolName",
+			"j ",
+			"var j",
+			"j =",
+			"j=",
+			"sort",
+			"*",
+			"sort",
+			"closest",
+			"count",
+			"closest",
+			"null",
+			"// 		{\"",
+			"null",
+			"null,null",
+			"null",
+			"metro",
+			"anderson",
+			"td class=\"teknik\"",
+			"td colspan=\"2\" class=\"teknik\"",
+			"tr valign=\"top\" align=\"left\" bgcolor=\"#ffffff\"",
+			"ª",
+			"Â",
+			"GibsonÂ‹Ã³Â©",
+			"Â",
+			" _",
+			"_",
+			"_String Height Lock_",
+			"\"eCam_",
+			"_Saddle Housing Lock_",
+			"place_even",
+			"_",
+			"we_ve",
+			"Â¾_Âª",
+			"EMGÂ¾_Âª45",
+			"EMGÂ¾_Âª40",
+			"EMGÂ¾_Âª35",
+			"_",
+			"you_ll",
+			"_",
+			"_s ",
+			"don_t",
+			"_",
+			"_W",
+			"_L"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"alt=\"Elixir Strings\"",
+			"eBass5212SG",
+			"clearance5212T",
+			"clearance5212B",
+			"eBass5212",
+			"campaign=eBass5212",
+			"<table width =\"325\" cellpadding=\"0\" cellspacing=\"0\" padding=\"5px\" bgcolor=\"#EAE9E9\">",
+			"campaign=clearance5212",
+			"<img style=\"max-width:150px;max-height:120px;\"",
+			"img style",
+			"http",
+			"campaign=ebassaprilSG",
+			"campaign=ebassapril",
+			"max-height:120px",
+			"img style=\"max-width:150px;max-height:150px;\"",
+			"img style=\"max-width:150px;height:150px;\"",
+			"img max-width=\"150\" max-height=\"150\"",
+			"-->",
+			"",
+			"<span class=\"price\">$57</span>",
+			"<span class=\"price\">$51</span>",
+			"<span class=\"price\">$36</span>",
+			"max-height:150px;max-width:150px;",
+			"'",
+			"<h3>",
+			"</a></p>",
+			"tunersinstallSG",
+			"campaign=tunersinstall",
+			"",
+			"</h2>",
+			"<h2>",
+			"</p>\n<p>",
+			"&reg;",
+			"'",
+			",",
+			"	",
+			" ",
+			"2034",
+			"	</div>\n	<footer>\n	</footer>",
+			"<h2><a href=\"../index.html:\"><img src=\"../images/LOGO.png\"></img></a></h2>",
+			"null",
+			"\"-\"",
+			"-",
+			"td",
+			"tr",
+			"Gibson©",
+			"String Height Lock",
+			"\"eCam\"",
+			"Saddle Housing Lock",
+			"place even",
+			"",
+			",",
+			"",
+			"we've",
+			"",
+			"EMG-45",
+			"EMG-40",
+			"EMG-35",
+			"you'll",
+			"'s ",
+			"don't",
+			"\"L",
+			". It's",
+			"it's",
+			"Bass",
+			"pickup's",
+			"Fender",
+			"Bass.",
+			"Graphtech Ghost saddles",
+			"\"X\"",
+			"Bass ",
+			"DiMarzio ",
+			", a new breed of bass pickup that pours out unbelievable strength of TONE on any bass, ",
+			"",
+			", ",
+			"",
+			",",
+			"",
+			"SVT",
+			"ToneStyler",
+			"pickup's",
+			"F ",
+			"noise,",
+			"tone,",
+			"Man",
+			"Steve's",
+			"We've",
+			" Single",
+			"\"X\"",
+			"EMG's",
+			"CS's",
+			"you'll",
+			"you've",
+			"href=\"assets",
+			"Model P",
+			"We've",
+			"J",
+			"They're",
+			"that's",
+			"We've",
+			"J",
+			"They're",
+			"that's",
+			"DiMarzio",
+			"we're",
+			"today's",
+			"JB",
+			"\"twang\"",
+			"Bass",
+			"JB",
+			"Octamizer",
+			"ToneStyler",
+			" Custom",
+			" Fully",
+			" Industrial",
+			"2\"",
+			"EMG's",
+			"\"X\"",
+			"spacing's",
+			"spacing",
+			"Quik-Connect",
+			"Man's",
+			"Quik-Connect",
+			"Gibson Ripper",
+			"Mosrite",
+			"html\"",
+			"href=\"assets",
+			"\"corner frequencies\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2491,
+								2491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 409.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/school.css",
+					"settings":
+					{
+						"buffer_size": 3400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 104.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true
+}

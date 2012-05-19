@@ -4,7 +4,7 @@ Gray: #333333
 White: #F5F5F1
 d*/
 
-html { overflow-y: scroll; background-color:#999999;height: 100%;}
+html { overflow-y: scroll; background-color:#999999;}
 * { margin: 0; padding: 0; }
 .floatright { float: right; }
 .floatleft { float: left; }
@@ -12,9 +12,11 @@ html { overflow-y: scroll; background-color:#999999;height: 100%;}
 
 #page-wrap {
 	width:900px;
-	margin: 0px auto;
 	background: #F5F5F1;
 	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -4em;
 	}
 	
 body {
@@ -34,7 +36,7 @@ h1 {
 	line-height: 80px;
 	position: relative;
 	left: -40px;
-	width: 865px;
+	width: 866px;
 }
 
 h2 {
@@ -100,11 +102,12 @@ header {
 
 
 footer {
-	background: none repeat scroll 0 0 #006600;
+	background: none repeat scroll 0 0 #001100;
     display: block;
     margin: 0px;
     height: 20px;
     padding: 0px 0px 0px 15px;
+    border: 0px;
 }
 
 .atState {
@@ -217,4 +220,28 @@ background-color: #b8d6b8;
 h5 {
 	margin: 0px 0px 0px 25px;
 	font-size: 20px;
+}
+
+.districtTable {
+	width: 850px;
+	margin: 0px auto;
+	font-size: 2em;
+	}
+
+.districtTable td {
+	line-height: 1.5em;
+}
+
+
+/*sticky footer*/
+
+* {
+margin: 0;
+}
+html, body {
+height: 100%;
+}
+
+footer, .push {
+height: 4em;
 }
