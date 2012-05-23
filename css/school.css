@@ -102,13 +102,20 @@ header {
 
 
 footer {
-	background: none repeat scroll 0 0 #001100;
+	background: none repeat scroll 0 0 #006600;
     display: block;
-    margin: 0px;
+    margin: 0px auto -4em;
     height: 20px;
     padding: 0px 0px 0px 15px;
     border: 0px;
 }
+
+#footerLinks {
+	float: left;
+	color: #fff;
+	display:inline;
+	font-size: .75em;
+	}
 
 .atState {
 color: #000000;
@@ -176,6 +183,7 @@ canvas {
 #geographicInfo {
 	padding: 15px;
 	width: 700px;
+	height: 400px;
 	margin: 0px 85px 0px 85px;
 }
 
@@ -195,7 +203,9 @@ left: 0;
 	margin: 0px auto;
 }
 
-#map_canvas { width:850px; height:500px; margin: 0px auto}
+#map_canvas { width:850px; height:400px; margin: 0px auto;}
+
+.map_container {height:500px;}
 
 a {color: #060;}
 a:hover {color: #030; text-decoration: underline;}
