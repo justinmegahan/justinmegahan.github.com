@@ -4,7 +4,7 @@ Gray: #333333
 White: #F5F5F1
 d*/
 
-html { overflow-y: scroll; background-color:#999999;}
+html { overflow-y: scroll;}
 * { margin: 0; padding: 0; }
 .floatright { float: right; }
 .floatleft { float: left; }
@@ -12,19 +12,29 @@ html { overflow-y: scroll; background-color:#999999;}
 
 #page-wrap {
 	width:900px;
-	background: #F5F5F1;
 	min-height: 100%;
 	height: auto !important;
 	height: 100%;
 	margin: 0 auto -4em;
-	}
+	background-color: #F5F5F1;
+	-moz-box-shadow: 0px 0px 20px 0px gray;
+	-webkit-box-shadow: 0px 0px 20px 0px gray;
+	box-shadow: 0px 0px 20px 0px gray;}
+
+header {
+	width:900px;
+	margin:0 auto;
+	padding-top: 5px;
+}
 	
 body {
 	font-family: "Book Antiqua", serif;
 	font-size: 1em;
 	color: #333333;
-	background-color:#999999;
-	height: 100%;
+	background-image:url('../images/bglines.png');
+	background-repeat:repeat;
+	background-attachment:fixed;
+	min-height:100%;
 	}
 	
 h1 {
@@ -36,11 +46,10 @@ h1 {
 	line-height: 80px;
 	position: relative;
 	left: -40px;
-	width: 866px;
+	width: 906px;
 }
 
 h2 {
-	background: none repeat scroll 0 0 #999999;
 	color: #006600;
 	padding: 0 0 0 10px;
 	line-height: 24px;
@@ -52,21 +61,17 @@ h2 {
 	
 p {
 	padding: 0 0 0 10px;
-	
 	}
 
 nav ul {
 	margin: 5px 0 5px 25px;
-	padding: 0px 0px;
+	padding: 5px 0px 0px 0px;
 	}
 
 nav li {display: inline;
 	font-size: .8em;}
 
-	
-header { 
-		position: fixed;
-		}
+
 
 #banner {
 	position: absolute;
@@ -104,18 +109,52 @@ header {
 footer {
 	background: none repeat scroll 0 0 #006600;
     display: block;
-    margin: 0px auto -4em;
-    height: 20px;
-    padding: 0px 0px 0px 15px;
+    margin: 0px auto;
     border: 0px;
+    width:100%;
+    position: relative;
+	margin-top: -100px; /* negative value of footer height */
+	height: 100px;
+	clear:both;} 
+
+
+.footerContent {
+	width:900px;
+	margin:0px auto 0;
 }
 
-#footerLinks {
-	float: left;
-	color: #fff;
-	display:inline;
-	font-size: .75em;
+footer div ul li  {
+	color: #F5F5F1;
+	font-size: 0.75em;
+	padding: 0px 50px;
 	}
+
+footer div div {
+	display: inline-block;
+	width: 330px;
+	float: left;
+	color: #F5F5F1;
+	margin: 5px 0px;
+	padding: 0px 25px;
+	font-size: 0.75em;
+	border-right-style: double ; 
+	border-right-color: #999; 
+	border-right-width: 1px;
+}
+
+footer div ul {
+	display: inline-block;
+	width: 200px;
+	float: left;
+	margin: 5px 0px;
+	list-style: none;
+;
+}
+
+footer img {
+	float:right;
+	padding: 10px;
+}
 
 .atState {
 color: #000000;
@@ -183,7 +222,7 @@ canvas {
 #geographicInfo {
 	padding: 15px;
 	width: 700px;
-	height: 400px;
+	height: 330px;
 	margin: 0px 85px 0px 85px;
 }
 
@@ -198,6 +237,17 @@ bottom: -25px;
 left: 0;
 }
 
+.triangleright {
+width: 0;
+height: 0;
+border-left: 40px solid #030;
+border-bottom: 25px solid transparent;
+border-top: -10px;
+position: absolute;
+bottom: -25px;
+left: 940px;
+}
+
 #districtSchools {
 	width: 850px;
 	margin: 0px auto;
@@ -205,7 +255,7 @@ left: 0;
 
 #map_canvas { width:850px; height:400px; margin: 0px auto;}
 
-.map_container {height:500px;}
+.map_container {height:420px;}
 
 a {color: #060;}
 a:hover {color: #030; text-decoration: underline;}
@@ -242,16 +292,42 @@ h5 {
 	line-height: 1.5em;
 }
 
-
-/*sticky footer*/
-
-* {
-margin: 0;
-}
-html, body {
-height: 100%;
+#main {	
+	width:900px;
+	min-height:100%;
 }
 
-footer, .push {
-height: 4em;
+.textcontent p {
+	font-size: 1em;
+	padding: 0px 25px;
 }
+
+.textcontent ul {
+	list-style-type: square;
+	padding: 0px 25px;
+}
+
+
+
+/* STICKY footer */
+
+* { margin:0; padding:0; } 
+
+html, body, #page-wrap { height: 100%; }
+
+body > #page-wrap {height: auto; min-height: 100%;}
+
+#main { padding-bottom: 100px; }  /* must be same height as the footer */
+
+
+/* CLEAR FIX*/
+.clearfix:after {content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;}
+.clearfix {display: inline-block;}
+/* Hides from IE-mac \*/
+* html .clearfix { height: 1%;}
+.clearfix {display: block;}
+/* End hide from IE-mac */
