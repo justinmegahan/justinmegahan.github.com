@@ -120,7 +120,7 @@ function findClosestSchools() {
 function insertText () {
 
 // create Badge HTML - !!!CURRENTLY NOT IMPLEMENTED!!!
-	var badgesHTML = '<h1><div class="triangle"></div>' + Clay.schoolName + '</h1>';		
+	var badgesHTML = '<h1><div class="triangle"></div>' + Clay.schoolName + '<div class="triangleright"></h1>';		
 	
 	for(i in Clay.schoolBadges){
 		if (Clay.schoolBadges[i] == "ap") {
