@@ -137,6 +137,8 @@ function insertText () {
 // insert Badge HTML
 	document.getElementById('badges').innerHTML = badgesHTML;
 
+// insert Dynamic Title
+	document.getElementById('title').innerHTML = Clay.schoolName;
 
 // create Charts HTML
 	var chartsHTML = "";
