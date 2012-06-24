@@ -129,7 +129,7 @@ footer div ul li  {
 	padding: 0px 50px;
 	}
 
-footer div div {
+.motto {
 	display: inline-block;
 	width: 330px;
 	float: left;
@@ -151,9 +151,14 @@ footer div ul {
 ;
 }
 
-footer img {
-	float:right;
-	padding: 10px;
+.social {
+	width: 130px;
+	float: right;
+}
+
+.social img {
+	padding: 5px 5px;
+	float: right;
 }
 
 .atState {

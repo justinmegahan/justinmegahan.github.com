@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://fathoms.org/</loc>
+  <lastmod>2012-05-28T16:16:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://fathoms.org/hillsborough/schoollevel.html</loc>
+  <lastmod>2012-05-28T16:16:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://fathoms.org/pinellas/schoollevel.html</loc>
+  <lastmod>2012-05-28T16:16:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://fathoms.org/about.html</loc>
+  <lastmod>2012-05-28T16:16:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://fathoms.org/sitemap.html</loc>
+  <lastmod>2012-05-28T16:16:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://fathoms.org/index.html</loc>
+  <lastmod>2012-05-28T16:16:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://fathoms.org/hillsborough/elementarydistrict.html</loc>
+  <lastmod>2012-05-28T16:16:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=advantage</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=alafia</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=alexander</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+r>
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=anderson</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=apollo_beach</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=bailey</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=ballast_point</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=bay_crest</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=bellamy</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=bevis</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=bing</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=boyette_springs</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=brooker</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=broward</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=bryan</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=bryant</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=bt_washington</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=buckhorn</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=burney</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=cahoon</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=cannella</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=carrollwood</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=chiaramonte</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=chiles</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=cimino</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=citrus_park</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=clair_mel</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=clark"</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=claywell</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=cleveland</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=collins</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=colson</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=community</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=cork</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=corr</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=crestwood</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=cypress creek</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=davis</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=deer_park</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=desoto</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=dickenson</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=doby</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=dover</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=dunbar</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=edison</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=egypt_lake</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=essrig</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=fishhawk_creek</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=folsom</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=forest_hills</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=foster</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=frost</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=gibsonton</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=gorrie</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=grady</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=graham</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=hammond</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=heritage</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=hillsborough_virtual</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=hope</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=hunters_green</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=ippolito</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=jackson</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=james</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=just</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=kenly</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=kids_community</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=kimbell</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=kingswood</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=knights</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=lakemagdalene</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=lanier</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=learning_gate</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=lee</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=lewis</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=limona</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=lincoln</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=lithia_springs</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=lockhart</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=lomax</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=lopez</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=lowry</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=lutz</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=mabry</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=macfarlane_park</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=mango</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=maniscalco</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=mcdonald</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=mckirtick</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=mendenhall</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=miles</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=mintz</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=mitchell</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=morgan_woods</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=mort</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=mosi</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=muller</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=nelson</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+ 
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=northwest</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=oak_grove</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=oak_park</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=palm_river</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=pinecrest</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=pizzo</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=potter</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=pride</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=rampello</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=reddick</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=redlands</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=richardson</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=riverhills</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=riverview</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=robinson</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=robles</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=roland_park</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=rossevelt</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=ruskin</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=schmidt</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=schwarzkopf</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=seffner</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=seminole</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=shaw</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=sheeny</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=shiloh</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=shore</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=stowers</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=springhead</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=sulphur_springs</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=summerfield_crossing</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=summerfield</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=sessums</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=symmes</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=tampa_bay_boulevard</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=tamap_charter</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=tampa_palms</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=temple_terrace</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=thonotosassa</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=tinker</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=town_and_country</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=trapnell</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=trinity</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=turner</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=twin_lakes</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=patel</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=valrico</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=valrico_lake</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=village_excellence</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=walden_lake</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=walton</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=west_shore</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=west_tampa</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=westchase</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=wilson</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=wimauma</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=witter</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=woodbridge</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/elementary.html?school=yates</loc>  
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+  <loc>http://fathoms.org/hillsborough/middledistrict.html</loc>
+  <lastmod>2012-05-28T16:16:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://fathoms.org/hillsborough/highdistrict.html</loc>
+  <lastmod>2012-05-28T16:16:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://fathoms.org/pinellas/elementarydistrict.html</loc>
+  <lastmod>2012-05-28T16:16:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://fathoms.org/pinellas/middledistrict.html</loc>
+  <lastmod>2012-05-28T16:16:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://fathoms.org/pinellas/highdistrict.html</loc>
+  <lastmod>2012-05-28T16:16:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+
+</urlset>
